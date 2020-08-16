@@ -1,7 +1,27 @@
-# Microsoft Visual Studio:
+# Microsoft Visual Studio Community Edition 2015 + Product key:
 
-Microsoft Visual Studio est une suite de logiciels de développement pour Windows et mac OS conçue par Microsoft. La dernière version s'appelle Visual Studio 2019.
++ Community Edition:
 
-Visual Studio est un ensemble complet d'outils de développement permettant de générer des applications web ASP.NET, des services web XML, des applications bureautiques et des applications mobiles. Visual Basic, Visual C++, Visual C# utilisent tous le même environnement de développement intégré (IDE), qui leur permet de partager des outils et facilite la création de solutions faisant appel à plusieurs langages. Par ailleurs, ces langages permettent de mieux tirer parti des fonctionnalités du framework .NET, qui fournit un accès à des technologies clés simplifiant le développement d'applications web ASP et de services web XML grâce à Visual Web Developer.
+- Web Installer:   http://raboninco.com/1miUo
+- ISO Image:       http://raboninco.com/1miVK
 
-Durant sa conférence Connect() 2016, Microsoft a annoncé le portage de Visual Studio sur macOS, le système d'exploitation d'Apple.
++ Professional Edition:
+
+- Web Installer:   http://raboninco.com/1miW1
+- ISO Image:       http://raboninco.com/1miWO
+
++ Enterprise Edition:
+
+- Web Installer:   http://raboninco.com/1miWz
+- ISO Image:       http://raboninco.com/1miXG
+
++ product key:   
+
+- Professional Edition:  HMGNV-WCYXV-X7G9W-YCX63-B98R2
+
+
+- Enterprise Edition:    2XNFG-KFHR8-QV3CP-3W6HT-683CH
+                         HM6NR-QXX7C-DFW2Y-8B82K-WTYJV
+
+                           
+
