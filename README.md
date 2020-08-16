@@ -17,11 +17,10 @@
 
 + product key:   
 
-- Professional Edition:  HMGNV-WCYXV-X7G9W-YCX63-B98R2
+- Professional Edition:  " HMGNV-WCYXV-X7G9W-YCX63-B98R2 "
 
 
-- Enterprise Edition:    2XNFG-KFHR8-QV3CP-3W6HT-683CH
-                         HM6NR-QXX7C-DFW2Y-8B82K-WTYJV
+- Enterprise Edition:    " 2XNFG-KFHR8-QV3CP-3W6HT-683CH " / " HM6NR-QXX7C-DFW2Y-8B82K-WTYJV "
 
                            
 
